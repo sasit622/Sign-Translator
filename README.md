@@ -125,13 +125,10 @@ Open-source resources and libraries
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](images/home-page.png)
+![Home Page](images/home.png)
 
 ### Course Catalog
 ![Courses](images/courses-section.png)
-
-### Course Details
-![Course Details](images/course-details.png)
 
 ### Interactive Practice Tool
 ![Practice Tool](images/practice-tool.png)
