@@ -122,3 +122,19 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 Sign language communities worldwide
 Educational consultants and deaf/hard-of-hearing advisors
 Open-source resources and libraries
+## 📸 Screenshots
+
+### Home Page
+![Home Page](images/home-page.png)
+
+### Course Catalog
+![Courses](images/courses-section.png)
+
+### Course Details
+![Course Details](images/course-details.png)
+
+### Interactive Practice Tool
+![Practice Tool](images/practice-tool.png)
+
+### Resource Library
+![Library](images/library-section.png)
