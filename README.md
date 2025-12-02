@@ -1,81 +1,124 @@
-SignX - Sign Language Learning Platform
-SignX is a comprehensive web-based educational platform dedicated to making sign language learning accessible, interactive, and engaging for users of all skill levels. The platform bridges communication gaps by providing structured courses in multiple sign languages including American Sign Language (ASL), Indian Sign Language (ISL), Tamil Sign Language (தமிழ் SL), and Telugu Sign Language (TSL).
-Key Features:
-1. Home Page
+SignX - Sign Language Learning Platform 🤟
+A modern, responsive web platform that empowers users to learn sign language through interactive courses, real-time practice tools, and comprehensive learning resources.
+🌟 Overview
+SignX bridges communication gaps by making sign language education accessible to everyone. The platform supports multiple sign languages including ASL (American Sign Language), ISL (Indian Sign Language), Tamil Sign Language (தமிழ் SL), and Telugu Sign Language (TSL).
+✨ Features
+📚 Multi-Language Course Catalog
 
-Clean, modern interface with an inspiring hero section
-Tagline: "Redefining Connection Through Sign Language"
-Video introduction to ASL with embedded player
-Clear call-to-action buttons for "Start Learning" and "Try Practice Tool"
-Mission statement emphasizing accessibility and breaking down communication barriers
+Structured Learning Paths: Beginner, Intermediate, and Advanced courses
+Multiple Sign Languages: ASL, ISL, தமிழ் SL, TSL
+Course Details: Duration tracking, enrollment statistics, difficulty badges
+Smart Filtering: Filter by language, skill level, and popularity
+Rich Content: Video tutorials, illustrated guides, and interactive lessons
 
-2. Courses Section
+🎯 Interactive Practice Tool
 
-Curated courses for beginners, intermediates, and advanced learners
-Multiple sign language options (ASL, ISL, Tamil SL, Telugu SL)
-Course cards displaying:
+Real-time Recognition: Camera-based sign language detection
+Instant Feedback: "Capture & Predict" functionality
+Practice Tips: Guidance for optimal results
+User-friendly Interface: Clean, intuitive design for seamless practice
 
-Difficulty level badges
-Popularity indicators (Popular, New, Featured)
-Course duration (3-6 weeks)
-Enrollment numbers
-Detailed descriptions in multiple languages
+📖 Resource Library
 
-
-Filter system by skill level and language
-Visual course thumbnails with diverse, inclusive imagery
-
-3. Interactive Practice Tool
-
-Real-time sign language recognition using camera
-"Capture & Predict" functionality for immediate feedback
-Clean interface with prediction display area
-Tips section for better results
-Ideal for hands-on practice and skill validation
-
-4. Sign Language Library
-
-Comprehensive resource hub with 8+ resources
-Filter options by:
-
-Language (ASL, தமிழ் SL, TSL, Multiple)
-Resource Type (Book, Video, Article)
-Level (Beginner, Intermediate, Advanced, All Levels)
-
-
-Featured resources include:
+Diverse Materials: Books, videos, articles, and visual guides
+Comprehensive Filtering: By language, resource type, and skill level
+Featured Resources:
 
 Complete ASL Guide
-தொடக்கநிலையினரு க்கான தமிழ் SL (Beginner Tamil SL)
-ITSL Guide
+Beginner Tamil SL (தொடக்கநிலையினரு க்கான தமிழ் SL)
+ITSL Reference Guide
 Medical Sign Language Guide
 
 
-Rich visual cards with resource type, level, and preview images
+8+ Curated Resources: High-quality learning materials for all levels
 
-Design Elements:
+🎨 User Experience
 
-Purple and blue color scheme (#7C5CFF primary brand color)
-Light lavender background for accessibility
-Responsive layout optimized for all devices
-Dark mode toggle available
-Clean typography with excellent readability
-Inclusive imagery featuring diverse communities
-Intuitive navigation menu (Home, Courses, Practice, Library)
+Responsive Design: Optimized for desktop, tablet, and mobile
+Dark Mode Support: Toggle for comfortable viewing
+Accessible Interface: WCAG compliant design
+Multi-language Support: English, Tamil, Telugu content
+Intuitive Navigation: Clear menu structure and smooth scrolling
 
-Target Audience:
+🛠️ Technology Stack
 
-Beginners seeking foundational sign language skills
-Intermediate learners looking to expand vocabulary
-Advanced signers wanting to refine their abilities
+Frontend: HTML5, CSS3, JavaScript
+Styling: Custom CSS with Tailwind-inspired utilities
+APIs:
+
+Camera/MediaStream API for practice tool
+Video embedding for course content
+
+
+Features:
+
+Responsive grid layouts
+Dynamic filtering system
+Interactive UI components
+
+
+
+🚀 Key Sections
+
+Home - Hero section with mission statement and video introduction
+Courses - Filterable course catalog with detailed information
+Practice - Camera-based interactive practice tool
+Library - Comprehensive resource hub with filtering options
+
+🎯 Target Audience
+
+Sign language learners (all skill levels)
 Educators and interpreters
-Family members of deaf or hard-of-hearing individuals
+Family members of deaf/hard-of-hearing individuals
 Anyone interested in inclusive communication
+Accessibility advocates
 
-Technology Stack:
+💡 Use Cases
 
-Modern web technologies with responsive design
-Video integration for multimedia learning
-Camera API integration for practice tool
-Filtering and search functionality
-Multi-language support
+Self-paced sign language learning
+Supplementary education tool for schools
+Practice and skill validation
+Reference material for interpreters
+Community building for sign language users
+
+🎨 Design Highlights
+
+Brand Color: Purple (#7C5CFF) with blue accents
+Background: Soft lavender (#F3F4FF) for reduced eye strain
+Typography: Clear, readable fonts optimized for accessibility
+Imagery: Diverse, inclusive representation across all content
+UI Elements: Smooth animations, hover effects, and modern card designs
+
+📱 Responsive Features
+
+Mobile-first design approach
+Adaptive layouts for all screen sizes
+Touch-optimized interactive elements
+Efficient media loading
+
+🌐 Multilingual Support
+
+English interface
+Tamil (தமிழ்) course content and resources
+Telugu (తెలుగు) course content and resources
+Localized descriptions and learning materials
+
+🔮 Future Enhancements
+
+User authentication and progress tracking
+Community features (forums, peer practice)
+AI-powered sign recognition improvements
+Expanded language support
+Mobile app development
+Gamification elements
+
+
+🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+👥 Authors
+[SASITHARAN S /KAVIN /KABILAN /SARFRAZ]
+
+
+Sign language communities worldwide
+Educational consultants and deaf/hard-of-hearing advisors
+Open-source resources and libraries
