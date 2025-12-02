@@ -1,73 +1,81 @@
-# Welcome to your Lovable project
+SignX - Sign Language Learning Platform
+SignX is a comprehensive web-based educational platform dedicated to making sign language learning accessible, interactive, and engaging for users of all skill levels. The platform bridges communication gaps by providing structured courses in multiple sign languages including American Sign Language (ASL), Indian Sign Language (ISL), Tamil Sign Language (தமிழ் SL), and Telugu Sign Language (TSL).
+Key Features:
+1. Home Page
 
-## Project info
+Clean, modern interface with an inspiring hero section
+Tagline: "Redefining Connection Through Sign Language"
+Video introduction to ASL with embedded player
+Clear call-to-action buttons for "Start Learning" and "Try Practice Tool"
+Mission statement emphasizing accessibility and breaking down communication barriers
 
-**URL**: https://lovable.dev/projects/a1ab3712-2bf3-433d-853f-f7ae549d8c3c
+2. Courses Section
 
-## How can I edit this code?
+Curated courses for beginners, intermediates, and advanced learners
+Multiple sign language options (ASL, ISL, Tamil SL, Telugu SL)
+Course cards displaying:
 
-There are several ways of editing your application.
+Difficulty level badges
+Popularity indicators (Popular, New, Featured)
+Course duration (3-6 weeks)
+Enrollment numbers
+Detailed descriptions in multiple languages
 
-**Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/a1ab3712-2bf3-433d-853f-f7ae549d8c3c) and start prompting.
+Filter system by skill level and language
+Visual course thumbnails with diverse, inclusive imagery
 
-Changes made via Lovable will be committed automatically to this repo.
+3. Interactive Practice Tool
 
-**Use your preferred IDE**
+Real-time sign language recognition using camera
+"Capture & Predict" functionality for immediate feedback
+Clean interface with prediction display area
+Tips section for better results
+Ideal for hands-on practice and skill validation
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+4. Sign Language Library
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Comprehensive resource hub with 8+ resources
+Filter options by:
 
-Follow these steps:
+Language (ASL, தமிழ் SL, TSL, Multiple)
+Resource Type (Book, Video, Article)
+Level (Beginner, Intermediate, Advanced, All Levels)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Featured resources include:
 
-# Step 3: Install the necessary dependencies.
-npm i
+Complete ASL Guide
+தொடக்கநிலையினரு க்கான தமிழ் SL (Beginner Tamil SL)
+ITSL Guide
+Medical Sign Language Guide
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
 
-**Edit a file directly in GitHub**
+Rich visual cards with resource type, level, and preview images
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Design Elements:
 
-**Use GitHub Codespaces**
+Purple and blue color scheme (#7C5CFF primary brand color)
+Light lavender background for accessibility
+Responsive layout optimized for all devices
+Dark mode toggle available
+Clean typography with excellent readability
+Inclusive imagery featuring diverse communities
+Intuitive navigation menu (Home, Courses, Practice, Library)
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Target Audience:
 
-## What technologies are used for this project?
+Beginners seeking foundational sign language skills
+Intermediate learners looking to expand vocabulary
+Advanced signers wanting to refine their abilities
+Educators and interpreters
+Family members of deaf or hard-of-hearing individuals
+Anyone interested in inclusive communication
 
-This project is built with:
+Technology Stack:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/a1ab3712-2bf3-433d-853f-f7ae549d8c3c) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Modern web technologies with responsive design
+Video integration for multimedia learning
+Camera API integration for practice tool
+Filtering and search functionality
+Multi-language support
