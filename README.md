@@ -1,73 +1,137 @@
-# Welcome to your Lovable project
+SignX - Sign Language Learning Platform 🤟
+A modern, responsive web platform that empowers users to learn sign language through interactive courses, real-time practice tools, and comprehensive learning resources.
+🌟 Overview
+SignX bridges communication gaps by making sign language education accessible to everyone. The platform supports multiple sign languages including ASL (American Sign Language), ISL (Indian Sign Language), Tamil Sign Language (தமிழ் SL), and Telugu Sign Language (TSL).
+✨ Features
+📚 Multi-Language Course Catalog
 
-## Project info
+Structured Learning Paths: Beginner, Intermediate, and Advanced courses
+Multiple Sign Languages: ASL, ISL, தமிழ் SL, TSL
+Course Details: Duration tracking, enrollment statistics, difficulty badges
+Smart Filtering: Filter by language, skill level, and popularity
+Rich Content: Video tutorials, illustrated guides, and interactive lessons
 
-**URL**: https://lovable.dev/projects/a1ab3712-2bf3-433d-853f-f7ae549d8c3c
+🎯 Interactive Practice Tool
 
-## How can I edit this code?
+Real-time Recognition: Camera-based sign language detection
+Instant Feedback: "Capture & Predict" functionality
+Practice Tips: Guidance for optimal results
+User-friendly Interface: Clean, intuitive design for seamless practice
 
-There are several ways of editing your application.
+📖 Resource Library
 
-**Use Lovable**
+Diverse Materials: Books, videos, articles, and visual guides
+Comprehensive Filtering: By language, resource type, and skill level
+Featured Resources:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/a1ab3712-2bf3-433d-853f-f7ae549d8c3c) and start prompting.
+Complete ASL Guide
+Beginner Tamil SL (தொடக்கநிலையினரு க்கான தமிழ் SL)
+ITSL Reference Guide
+Medical Sign Language Guide
 
-Changes made via Lovable will be committed automatically to this repo.
 
-**Use your preferred IDE**
+8+ Curated Resources: High-quality learning materials for all levels
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+🎨 User Experience
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Responsive Design: Optimized for desktop, tablet, and mobile
+Dark Mode Support: Toggle for comfortable viewing
+Accessible Interface: WCAG compliant design
+Multi-language Support: English, Tamil, Telugu content
+Intuitive Navigation: Clear menu structure and smooth scrolling
 
-Follow these steps:
+🛠️ Technology Stack
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Frontend: HTML5, CSS3, JavaScript
+Styling: Custom CSS with Tailwind-inspired utilities
+APIs:
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Camera/MediaStream API for practice tool
+Video embedding for course content
 
-# Step 3: Install the necessary dependencies.
-npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Features:
 
-**Edit a file directly in GitHub**
+Responsive grid layouts
+Dynamic filtering system
+Interactive UI components
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
 
-**Use GitHub Codespaces**
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+🚀 Key Sections
 
-## What technologies are used for this project?
+Home - Hero section with mission statement and video introduction
+Courses - Filterable course catalog with detailed information
+Practice - Camera-based interactive practice tool
+Library - Comprehensive resource hub with filtering options
 
-This project is built with:
+🎯 Target Audience
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Sign language learners (all skill levels)
+Educators and interpreters
+Family members of deaf/hard-of-hearing individuals
+Anyone interested in inclusive communication
+Accessibility advocates
 
-## How can I deploy this project?
+💡 Use Cases
 
-Simply open [Lovable](https://lovable.dev/projects/a1ab3712-2bf3-433d-853f-f7ae549d8c3c) and click on Share -> Publish.
+Self-paced sign language learning
+Supplementary education tool for schools
+Practice and skill validation
+Reference material for interpreters
+Community building for sign language users
 
-## Can I connect a custom domain to my Lovable project?
+🎨 Design Highlights
 
-Yes, you can!
+Brand Color: Purple (#7C5CFF) with blue accents
+Background: Soft lavender (#F3F4FF) for reduced eye strain
+Typography: Clear, readable fonts optimized for accessibility
+Imagery: Diverse, inclusive representation across all content
+UI Elements: Smooth animations, hover effects, and modern card designs
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+📱 Responsive Features
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Mobile-first design approach
+Adaptive layouts for all screen sizes
+Touch-optimized interactive elements
+Efficient media loading
+
+🌐 Multilingual Support
+
+English interface
+Tamil (தமிழ்) course content and resources
+Telugu (తెలుగు) course content and resources
+Localized descriptions and learning materials
+
+🔮 Future Enhancements
+
+User authentication and progress tracking
+Community features (forums, peer practice)
+AI-powered sign recognition improvements
+Expanded language support
+Mobile app development
+Gamification elements
+
+
+🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+👥 Authors
+[SASITHARAN S /KAVIN /KABILAN /SARFRAZ]
+
+
+Sign language communities worldwide
+Educational consultants and deaf/hard-of-hearing advisors
+Open-source resources and libraries
+## 📸 Screenshots
+
+### Home Page
+![Home Page](images/home.png)
+
+### Course Catalog
+![Courses](images/courses-section.png)
+
+### Interactive Practice Tool
+![Practice Tool](images/practice-tool.png)
+
+### Resource Library
+![Library](images/library-section.png)
