@@ -1,0 +1,4 @@
+opencv-python==4.7.0.68
+mediapipe==0.10.21
+scikit-learn==1.2.0
+pyttsx3
